@@ -1,0 +1,62 @@
+[
+    {
+        "name": "badkamer",
+        "description": "De badkamer op de eerste verdieping. De muren zijn opgebouwd uit toilet papier, wat een luxe."
+    },
+    {
+        "name": "balzaal",
+        "description": "De heerlijkste gerechten worden hier voorgeschoteld aan de exquise gasten die zeer graag toehappen."
+    },
+    {
+        "name": "berging",
+        "description": "Een kamer voor stockage, niets speciaals."
+    },
+    {
+        "name": "garage",
+        "description": "Een gedeelde garage van de buurt, 160 meter van het landhuis van Bridges. Er rijdt een shuttle tussen de garage en het landhuis."
+    },
+    {
+        "name": "gastenkamer",
+        "description": "Een extra slaapkamer voor als er gasten willen overnachten. Vladimir Putout zou hier normaal logeren maar is uiteindelijk vroeger naar huis vertrokken toen hij zag dat iemand anders zijn intrek al had gedaan."
+    },
+    {
+        "name": "keuken",
+        "description": "Hier zwoegen en zweten bedienden. Ze zorgen dat de gasten nooit zonder drinken zitten en maken gerechten die zelfs Gordon Ramsey voor schut zet."
+    },
+    {
+        "name": "master_bedroom",
+        "description": "De slaapkamer van Bill & Jill Bridges"
+    },
+    {
+        "name": "oprit",
+        "description": "Zo groot als een voetbal veld, sommige gasten vragen zich af waarom ze in de garage moesten parkeren terwijl er hier zoveel plaats is."
+    },
+    {
+        "name": "persoonlijke_garage",
+        "description": "Hier staan de pronkstukken van de Bridges's auto verzameling, veilig en droog."
+    },
+    {
+        "name": "Toilet",
+        "description": "De enige toilet in dit grote landhuis? Vreemd."
+    },
+    {
+        "name": "traphal",
+        "description": "De traphal leidt naar het eerste verdiep waar, onder andere, de master bedroom zich bevindt."
+    },
+    {
+        "name": "tuin",
+        "description": "De tuin van het landhuis. Je kan hier zwemmen in de vijver, tennissen, golven of gewoon een beetje wandelen door de bloemen."
+    },
+    {
+        "name": "vestaire",
+        "description": "Een opberg ruimte voor jassen en hoeden van onze gasten."
+    },
+    {
+        "name": "wasruimte",
+        "description": "Hier worden alle lakens en kleren van Bill en Jill dagelijks gewassen."
+    },
+    {
+        "name": "wijnkelder",
+        "description": "De grootste wijnkelder die je ooit zal zien, het zou wel een museum kunnen zijn."
+    }
+]

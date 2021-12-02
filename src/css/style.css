@@ -30,7 +30,6 @@ a.btn {
     background-color: #1E1E1E;
     overflow-x: hidden;
     transition: 0.5s;
-    padding-top: 60px;
   }
   
   .sideBar a {
@@ -47,15 +46,26 @@ a.btn {
   }
   
   .sideBar .closebtn {
-    position: absolute;
-    top: 0;
     right: 25px;
     font-size: 36px;
-    margin-left: 50px;
+    margin-right: 50px;
+    text-align: right;
   }
 
   .start-98 {
       left: 98%;
+  }
+
+  .susBar {
+    position: relative;
+    width: 100%;
+  }
+
+  .susBarFill {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    justify-content: flex-start;
   }
   
   @media screen and (max-height: 450px) {
